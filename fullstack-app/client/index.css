@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+body {
+  max-width: 36rem;
+  margin: 0 auto;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  padding: 4px;
+}
+
+.todo-item-name {
+  margin: 0 0.5rem;
+}
